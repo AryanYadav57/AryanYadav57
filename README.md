@@ -1,6 +1,5 @@
 # 💫 About Me:
-Im currently working on archscope and an upi payment app
-
+sleeping
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lzercriom) 
