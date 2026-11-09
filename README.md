@@ -1,20 +1,25 @@
-# 💫 About Me:
-sleeping
+<h1 align="center">Aryan Yadav</h1> <p align="center"> <a href="https://github.com/AryanYadav57"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=BCA+student+at+RV+University%2C+Bengaluru;Building+AR%2C+full-stack+and+LLM-powered+apps;Open+to+software+development+internships" alt="Typing animation: BCA student at RV University, Bengaluru. Building AR, full-stack and LLM-powered apps. Open to software development internships." /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/aryan-yadav-6b4304339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:aryan.yadv57@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/AryanYadav57?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a> </p>
+About
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lzercriom) 
+BCA (Hons) student at RV University, Bengaluru (2024 to 2028), with a minor in UI/UX Design. I build full-stack, mobile and AR applications and work with LLM APIs. I'm looking for software development internships and entry-level roles.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryanYadav57&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AryanYadav57&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanYadav57&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently building
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanYadav57&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Cairn: an open-source gateway between coding agents and LLM providers. It estimates project cost from a PRD, enforces token budgets, and restores agent file changes using Git snapshots. TypeScript SQLite WebRTC
 
----
-[![](https://visitcount.itsvg.in/api?id=AryanYadav57&icon=0&color=0)](https://visitcount.itsvg.in)
+Selected projects
+Project	What it does	Stack
+SpecAR	Android AR app that turns a CSV of furniture dimensions into a 3D model placed at 1:1 scale on the detected floor. Drag-to-place, 15° snap rotation, released as a standalone APK.	React Native, ViroReact, ARCore
+Loom	Chrome extension that turns browsing into a local knowledge graph. An LLM extracts concepts and claims, with a heuristic fallback if the API fails. All data stays on-device.	React, D3, IndexedDB, Manifest V3
+R2I	Bengaluru eco-routing prototype. Scores candidate paths on time, emissions, congestion and risk, formulated as a QUBO and solved with simulated annealing.	Python, Streamlit, OpenStreetMap
+Experience
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+XR Intern, Fusion VR Chennai (Jun 2026, remote). Four-week internship on the project Sphere Blitz, rated "Very Good" by the program manager.
+
+Tech stack
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> </p> <p> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" alt="D3" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> </p> <p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> </p>
+
+AI: LLM API integration, RAG, agentic workflows Design: UI/UX, Photoshop, After Effects, Lightroom
+
+Contribution activity
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanYadav57/AryanYadav57/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanYadav57/AryanYadav57/output/github-snake.svg" /> <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/AryanYadav57/AryanYadav57/output/github-snake.svg" /> </picture> </p>
